@@ -1,0 +1,22 @@
+{
+  "name": "vampire-survivors-localisation",
+  "version": "1.0.0",
+  "description": "Tooling to automate converting .xlsx localisation to in-game compatible .json files for Vampire Survivors",
+  "main": "convert-lang.js",
+  "scripts": {
+    "convert-lang": "node ./convert-lang.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poncle/vampire-survivors-localisation.git"
+  },
+  "author": "Poncle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Poncle/vampire-survivors-localisation/issues"
+  },
+  "homepage": "https://github.com/Poncle/vampire-survivors-localisation#readme",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0"
+  }
+}

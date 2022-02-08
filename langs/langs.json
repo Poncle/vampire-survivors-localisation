@@ -1,0 +1,177 @@
+{
+    "xx": {},
+    "ar": {
+        "english": "Arabic",
+        "native": "العربية",
+        "api": "arabic",
+        "translations": {}
+    },
+    "bg": {
+        "english": "Bulgarian",
+        "native": "български език",
+        "api": "bulgarian",
+        "translations": {}
+    },
+    "zh-CN": {
+        "english": "Chinese",
+        "native": "简体中文",
+        "api": "schinese",
+        "translations": {}
+    },
+    "zh-TW": {
+        "english": "Chinese (Traditional)",
+        "native": "繁體中文",
+        "api": "tchinese",
+        "translations": {}
+    },
+    "cs": {
+        "english": "Czech",
+        "native": "čeština",
+        "api": "czech",
+        "translations": {}
+    },
+    "da": {
+        "english": "Danish",
+        "native": "Dansk",
+        "api": "danish",
+        "translations": {}
+    },
+    "nl": {
+        "english": "Dutch",
+        "native": "Nederlands",
+        "api": "dutch",
+        "translations": {}
+    },
+    "en": {
+        "english": "English",
+        "native": "English",
+        "api": "english",
+        "translations": {}
+    },
+    "fi": {
+        "english": "Finnish",
+        "native": "Suomi",
+        "api": "finnish",
+        "translations": {}
+    },
+    "fr": {
+        "english": "French",
+        "native": "Français",
+        "api": "french",
+        "translations": {}
+    },
+    "de": {
+        "english": "German",
+        "native": "Deutsch",
+        "api": "german",
+        "translations": {}
+    },
+    "el": {
+        "english": "Greek",
+        "native": "Ελληνικά",
+        "api": "greek",
+        "translations": {}
+    },
+    "hu": {
+        "english": "Hungarian",
+        "native": "Magyar",
+        "api": "hungarian",
+        "translations": {}
+    },
+    "it": {
+        "english": "Italian",
+        "native": "Italiano",
+        "api": "italian",
+        "translations": {}
+    },
+    "ja": {
+        "english": "Japanese",
+        "native": "日本語",
+        "api": "japanese",
+        "translations": {}
+    },
+    "ko": {
+        "english": "Korean",
+        "native": "한국어",
+        "api": "koreana",
+        "translations": {}
+    },
+    "no": {
+        "english": "Norwegian",
+        "native": "Norsk",
+        "api": "norwegian",
+        "translations": {}
+    },
+    "pl": {
+        "english": "Polish",
+        "native": "Polski",
+        "api": "polish",
+        "translations": {}
+    },
+    "pt": {
+        "english": "Portuguese",
+        "native": "Português",
+        "api": "portuguese",
+        "translations": {}
+    },
+    "pt-BR": {
+        "english": "Portuguese-Brazil",
+        "native": "Português-Brasil",
+        "api": "brazilian",
+        "translations": {}
+    },
+    "ro": {
+        "english": "Romanian",
+        "native": "Română",
+        "api": "romanian",
+        "translations": {}
+    },
+    "ru": {
+        "english": "Russian",
+        "native": "Русский",
+        "api": "russian",
+        "translations": {}
+    },
+    "es": {
+        "english": "Spanish",
+        "native": "Español",
+        "api": "spanish",
+        "translations": {}
+    },
+    "es-419": {
+        "english": "Spanish-Latin America",
+        "native": "Español-Latinoamérica",
+        "api": "latam",
+        "translations": {}
+    },
+    "sv": {
+        "english": "Swedish",
+        "native": "Svenska",
+        "api": "swedish",
+        "translations": {}
+    },
+    "th": {
+        "english": "Thai",
+        "native": "ไทย",
+        "api": "thai",
+        "translations": {}
+    },
+    "tr": {
+        "english": "Turkish",
+        "native": "Türkçe",
+        "api": "turkish",
+        "translations": {}
+    },
+    "uk": {
+        "english": "Ukrainian",
+        "native": "Українська",
+        "api": "ukrainian",
+        "translations": {}
+    },
+    "vn": {
+        "english": "Vietnamese",
+        "native": "Tiếng Việt",
+        "api": "vietnamese",
+        "translations": {}
+    }
+}
