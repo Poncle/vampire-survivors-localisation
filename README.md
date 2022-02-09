@@ -13,9 +13,15 @@ This tooling is used to automate converting .xlsx localisation to in-game compat
     ```
 <br>
 
+<br>
+
+- **Download the public localisation file as .xlsl:**    
+    https://docs.google.com/spreadsheets/d/1niekzGKaM08M9oYP0wLqHYg5WU7h1iy3nLJL1XGDdJM
+<br>
+
 - **Before running the conversion, please ensure you have placed the public loaclisation file into the correct path:**
     - You should locate the following directory `./xlsx/` (or create it if not present) 
-    - Then place the loaclisation file into this directory using the required filename: `input.xlsx`
+    - Then place the loacalisation file into this directory using the required filename: `input.xlsx`
     
 <br>
 
