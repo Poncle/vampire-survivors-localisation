@@ -33,13 +33,12 @@ for (let sectionName in result) {
     for (let obj in langs) {
         let lang = langs[obj];
         let langKey = obj;
-        for (let i = 1; i < numKeys; i++) {
+        for (let i = 1; i <= numKeys; i++) {
             if (section[i].A.indexOf('{') > -1) {
                 let keys = section[i].A.replace('{', '').split('}');
                 let group = keys[0];
                 let key = keys[1];
                 if(!newJson[lang]){
-                    console.log(lang)
                     continue;
                 }
                 if (!newJson[lang].translations[group]) {
@@ -48,7 +47,9 @@ for (let sectionName in result) {
                 newJson[lang].translations[group][key] = section[i][langKey];
             } else {
                 let key = section[i].A;
-                newJson[lang].translations[key] = section[i][langKey];
+                if(newJson[lang]) {
+                    newJson[lang].translations[key] = section[i][langKey];
+                }
             }
         }
     }
