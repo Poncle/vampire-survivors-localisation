@@ -1,5 +1,4 @@
-out/*
-out
+package-lock.json
 
 xlsx/*.xlsx
 
@@ -108,3 +107,10 @@ dist
 # TernJS port file
 .tern-port
 .history/
+out/achievementLang.json
+out/characterLang.json
+out/itemLang.json
+out/lang.json
+out/powerUpLang.json
+out/stageLang.json
+out/weaponLang.json
