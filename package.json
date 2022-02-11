@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Poncle/vampire-survivors-localisation#readme",
   "dependencies": {
-    "convert-excel-to-json": "^1.7.0"
+    "convert-excel-to-json": "^1.7.0",
+    "node-wget": "^0.4.3"
   }
 }

@@ -1,6 +1,7 @@
 package-lock.json
 
 xlsx/*.xlsx
+xlsx/
 
 # Logs
 logs
