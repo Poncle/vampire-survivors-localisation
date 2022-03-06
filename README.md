@@ -35,4 +35,4 @@ This tooling is used to automate converting .xlsx localisation to in-game compat
     ```
 <br>
 
-- **You will now have an output folder at `./out/` which contains the converted .json files that are able to be used directly in the game.**
+- **You will now have an output folder at `./out/` which contains the converted .json files that are able to be used directly in the game by replacing the files in `<Vampire Survivors folder>\resources\app\.webpack\renderer\assets\lang`**
