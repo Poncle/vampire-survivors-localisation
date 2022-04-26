@@ -15,7 +15,7 @@ This tooling is used to automate converting .xlsx localisation to in-game compat
 
 <br>
 
-- **Download the public localisation file as .xlsl:**    
+- **Download the public localisation file as .xlsx:**    
     https://docs.google.com/spreadsheets/d/1niekzGKaM08M9oYP0wLqHYg5WU7h1iy3nLJL1XGDdJM
 <br>
 
