@@ -8,7 +8,7 @@ const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/1niekzGKaM08M9oY
 
 wget({
     url: spreadsheetLink,
-    dest: inputPath + 'input.xlsx'
+    dest: inputPath + 'Original.xlsx'
 }, () => {
     const timeoutForDownload = 5000;
     // beacuase of node-wget wirtes file with createWriteStream,
